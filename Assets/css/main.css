@@ -1,3 +1,25 @@
+html {
+    background-color: #ffc107;
+}
+
+
 .jumbotron {
+    background-color: #ffc107;
+}
+
+.w-100 {
+    width: 50% !important;
+    margin: 0 auto;
+}
+
+.carousel-item {
+    background-color: #ffc107;
+}
+
+.carouselExampleIndicators {
+    margin-top: 0 auto;
+}
+
+body {
     background-color: #ffc107;
 }
