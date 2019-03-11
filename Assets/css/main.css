@@ -1,0 +1,43 @@
+
+html {
+    background-color: #ffc107;
+}
+
+h1
+h2
+h3
+h4
+h5
+h6 
+p {
+    font-family: Roboto;
+}
+
+
+.jumbotron {
+    background-color: #ffc107;
+}
+
+.w-100 {
+    width: 50% !important;
+    margin: 0 auto;
+}
+
+.carousel-item {
+    background-color: #ffc107;
+}
+
+.row {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.card-body {
+    background-color: #333;
+    color: white;
+}
+
+body {
+    background-color: #ffc107;
+}
